@@ -1,0 +1,12 @@
+D:\Masters\vs projects\HomeWork1\HomeWork1.Base\bin\Debug\net6.0\HomeWork1.Base.deps.json
+D:\Masters\vs projects\HomeWork1\HomeWork1.Base\bin\Debug\net6.0\HomeWork1.Base.dll
+D:\Masters\vs projects\HomeWork1\HomeWork1.Base\bin\Debug\net6.0\HomeWork1.Base.pdb
+D:\Masters\vs projects\HomeWork1\HomeWork1.Base\obj\Debug\net6.0\HomeWork1.Base.csproj.AssemblyReference.cache
+D:\Masters\vs projects\HomeWork1\HomeWork1.Base\obj\Debug\net6.0\HomeWork1.Base.GeneratedMSBuildEditorConfig.editorconfig
+D:\Masters\vs projects\HomeWork1\HomeWork1.Base\obj\Debug\net6.0\HomeWork1.Base.AssemblyInfoInputs.cache
+D:\Masters\vs projects\HomeWork1\HomeWork1.Base\obj\Debug\net6.0\HomeWork1.Base.AssemblyInfo.cs
+D:\Masters\vs projects\HomeWork1\HomeWork1.Base\obj\Debug\net6.0\HomeWork1.Base.csproj.CoreCompileInputs.cache
+D:\Masters\vs projects\HomeWork1\HomeWork1.Base\obj\Debug\net6.0\HomeWork1.Base.dll
+D:\Masters\vs projects\HomeWork1\HomeWork1.Base\obj\Debug\net6.0\refint\HomeWork1.Base.dll
+D:\Masters\vs projects\HomeWork1\HomeWork1.Base\obj\Debug\net6.0\HomeWork1.Base.pdb
+D:\Masters\vs projects\HomeWork1\HomeWork1.Base\obj\Debug\net6.0\ref\HomeWork1.Base.dll

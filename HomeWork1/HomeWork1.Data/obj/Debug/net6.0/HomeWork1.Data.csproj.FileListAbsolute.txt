@@ -1,0 +1,15 @@
+D:\Masters\vs projects\HomeWork1\HomeWork1.Data\bin\Debug\net6.0\HomeWork1.Data.deps.json
+D:\Masters\vs projects\HomeWork1\HomeWork1.Data\bin\Debug\net6.0\HomeWork1.Data.dll
+D:\Masters\vs projects\HomeWork1\HomeWork1.Data\bin\Debug\net6.0\HomeWork1.Data.pdb
+D:\Masters\vs projects\HomeWork1\HomeWork1.Data\bin\Debug\net6.0\HomeWork1.Base.dll
+D:\Masters\vs projects\HomeWork1\HomeWork1.Data\bin\Debug\net6.0\HomeWork1.Base.pdb
+D:\Masters\vs projects\HomeWork1\HomeWork1.Data\obj\Debug\net6.0\HomeWork1.Data.csproj.AssemblyReference.cache
+D:\Masters\vs projects\HomeWork1\HomeWork1.Data\obj\Debug\net6.0\HomeWork1.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Masters\vs projects\HomeWork1\HomeWork1.Data\obj\Debug\net6.0\HomeWork1.Data.AssemblyInfoInputs.cache
+D:\Masters\vs projects\HomeWork1\HomeWork1.Data\obj\Debug\net6.0\HomeWork1.Data.AssemblyInfo.cs
+D:\Masters\vs projects\HomeWork1\HomeWork1.Data\obj\Debug\net6.0\HomeWork1.Data.csproj.CoreCompileInputs.cache
+D:\Masters\vs projects\HomeWork1\HomeWork1.Data\obj\Debug\net6.0\HomeWork1.Data.csproj.CopyComplete
+D:\Masters\vs projects\HomeWork1\HomeWork1.Data\obj\Debug\net6.0\HomeWork1.Data.dll
+D:\Masters\vs projects\HomeWork1\HomeWork1.Data\obj\Debug\net6.0\refint\HomeWork1.Data.dll
+D:\Masters\vs projects\HomeWork1\HomeWork1.Data\obj\Debug\net6.0\HomeWork1.Data.pdb
+D:\Masters\vs projects\HomeWork1\HomeWork1.Data\obj\Debug\net6.0\ref\HomeWork1.Data.dll
