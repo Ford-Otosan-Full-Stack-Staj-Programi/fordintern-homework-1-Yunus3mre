@@ -78,6 +78,11 @@ public class StaffController : ControllerBase
         }
         
     }
+    /// <summary>
+    /// Create New Record
+    /// </summary>
+    /// <param name="staff"></param>
+    /// <returns></returns>
     [HttpPost]
     public  string Insert([FromBody] Staff staff)
     {
@@ -121,7 +126,12 @@ public class StaffController : ControllerBase
         }
         
     }
-   
+    /// <summary>
+    /// Filter Method
+    /// </summary>
+    /// <param name="lastName"></param>
+    /// <param name="firstName"></param>
+    /// <returns></returns>   
     [HttpGet("Filter")]
     public IEnumerable<Staff> Filter(string lastName,string firstName)
     {
